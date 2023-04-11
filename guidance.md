@@ -1,4 +1,4 @@
-# Phases of P:
+# Phases of Project Work:
 
 The following are the phases of project work:
     
